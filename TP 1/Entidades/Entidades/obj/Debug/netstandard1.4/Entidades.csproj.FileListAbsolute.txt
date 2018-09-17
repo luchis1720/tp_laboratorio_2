@@ -1,0 +1,16 @@
+C:\Users\luchi\source\repos\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\luchi\source\repos\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\luchi\source\repos\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\luchi\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\luchi\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luchi\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\luchi\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\luchi\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\luchi\Desktop\TP 1\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
